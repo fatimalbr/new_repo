@@ -3,7 +3,7 @@
 
 |**Day :calendar:**|**Your Task :alarm_clock:**| 
 |------|--------------------|
-|[ ]| Basic Operations | 
+|&#10004;| Basic Operations | 
 |Day 2| Querying Data (SELECT) | 
 |Day 3| Modifying Data (INSERT, UPDATE, DELETE) | 
 |Day 4| Filtering Data (WHERE, IN, BETWEEN, LIKE, IS NULL, REGEXP) | 
