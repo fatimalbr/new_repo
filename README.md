@@ -3,8 +3,8 @@
 
 |**Day :calendar:**|**Your Task :alarm_clock:**| 
 |------|--------------------|
-|&#10004;| Basic Operations | 
-|Day 2| Querying Data (SELECT) | 
+|| Basic Operations | 
+|* [ ]| Querying Data (SELECT) | 
 |Day 3| Modifying Data (INSERT, UPDATE, DELETE) | 
 |Day 4| Filtering Data (WHERE, IN, BETWEEN, LIKE, IS NULL, REGEXP) | 
 |Day 5| Logical Operators (AND, OR, NOT) | 
@@ -30,4 +30,12 @@
 |Day 2| Stored Procedures and Functions | 
 |Day 3| Triggers and Events | 
 |Day 4| Transactions | 
+## Completed Tasks
 
+* [x] Finished task 1
+* [ ] Task 2 in progress
+
+## To-Do List
+
+* [ ] Buy groceries
+* [ ] Clean the house
