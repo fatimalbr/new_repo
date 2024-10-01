@@ -31,11 +31,7 @@
 |Day 3| Triggers and Events | 
 |Day 4| Transactions | 
 ## Completed Tasks
-
-* [x] Finished task 1
-* [ ] Task 2 in progress
-
-## To-Do List
-
-* [ ] Buy groceries
-* [ ] Clean the house
+| Task | Status |
+|---|---|
+| Complete Task 1 | <span class="checked">✓</span> |
+| Incomplete Task 2 | <span class="unchecked">☐</span> |
